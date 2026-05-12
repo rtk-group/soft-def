@@ -40,7 +40,6 @@ const Trending = () => {
                 {/* image section */}
                 <img src={images.card2_img} alt="card1 image" className=" w-[300px] h-[300px] lg:w-[601px] lg:h-[732px] object-cover absolute right-0 -top-25 lg:right-15 lg:-top-50 " />
             </div>
-
         </div>
     )
 }
