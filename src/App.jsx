@@ -1,6 +1,8 @@
 import React from 'react';
 import Home from './pages/Home.jsx'
 import Navbar from './component/Navbar.jsx';
+import Products from './pages/Products.jsx'
+import Footer from './component/Footer.jsx';
 
 function App() {
 
@@ -8,6 +10,8 @@ function App() {
     <>
     <Navbar/>
       <Home />
+      <Footer />
+      {/* < Products/> */}
     </>
   )
 }

@@ -10,6 +10,9 @@ import p1_img from './p1.png'
 import p2_img from './p2.png'
 import p3_img from './p3.png'
 import p4_img from './p4.png'
+import c1_img from './cus1.png'
+import c2_img from './cus2.jpg'
+import c3_img from './cus3.png'
 
 
 
@@ -26,4 +29,7 @@ export const images = {
     p2_img,
     p3_img,
     p4_img,
+    c1_img,
+    c2_img,
+    c3_img,
 }

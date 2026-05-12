@@ -8,7 +8,7 @@ const Navbar = () => {
     const [openDropdown, setOpenDropdown] = useState(false);
 
     return (
-        <div className="border border-black fixed top-0 z-50 flex items-center justify-between h-[80px] sm:h-[115px] w-full px-4 lg:px-10">
+        <div className="fixed top-0 z-50 flex items-center justify-between h-[80px] sm:h-[115px] w-full px-4 lg:px-10">
             <div className="flex items-center gap-2 ">
                 <img src={images.nav_logo} alt="" className="w-[35px] lg:w-[48px]" />
                 <p className="text-xl lg:text-[28px] text-[#FFFFFF]">FloraVision.</p>
